@@ -8,6 +8,7 @@ Es relevante tener un portafolio propio en orden de exhibir los trabajos realiza
 **¿Para quiénes? → usuarios extremos y usuarios promedio**
 
 Usuarios extremos: 
+
 1.Valentina:
 Es coordinadora de un programa público de asistencia al cliente, y encuentra que existen fallas en cómo opera su servicio. Ha escuchado hablar del diseño de servicios pero         no conoce bien de qué se trata. 
 
