@@ -7,9 +7,9 @@ El sitio web corresponderá a un autoencargo de portafolio de Diseño.
 ¿Para quiénes? → usuarios extremos y usuarios promedio
   Usuarios extremos: 
     Valentina:
-    Es coordinadora de un programa público de asistencia al cliente, y encuentra que existen fallas en cómo opera su servicio. Ha escuchado hablar del diseño de servicios pero         no conoce bien de qué se trata. 
+    - Es coordinadora de un programa público de asistencia al cliente, y encuentra que existen fallas en cómo opera su servicio. Ha escuchado hablar del diseño de servicios pero         no conoce bien de qué se trata. 
     Javier: 
-    No sabe lo que es el diseño. Tiene 68 años, es empresario y asocia el diseño a decoración de interiores, pero le han recomendado que contacte a un diseñador para                   revisar el área de innovación de la empresa.
+    - No sabe lo que es el diseño. Tiene 68 años, es empresario y asocia el diseño a decoración de interiores, pero le han recomendado que contacte a un diseñador para                   revisar el área de innovación de la empresa.
 
 ¿Qué existe que es similar a la propuesta? → antecedentes
 
