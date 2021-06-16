@@ -26,7 +26,7 @@ Es una joven empresaria que recién comienza un emprendimiento de servicio de co
 
 https://www.branex.com/
 
-![Image alt text](/images/branex1.jpg)
+![alt text](https://github.com/rodrigo-bot/dno037-clase14/blob/main/images/branex1.JPG)
 
 ![Image alt text](/images/branex2.jpg)
 
