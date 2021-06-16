@@ -28,21 +28,23 @@ https://www.branex.com/
 
 ![alt text](https://github.com/rodrigo-bot/dno037-clase14/blob/main/images/branex1.JPG)
 
-![Image alt text](/images/branex2.jpg)
+![alt text](https://github.com/rodrigo-bot/dno037-clase14/blob/main/images/branex2.JPG)
 
 https://www.momkai.com/
 
-![Image alt text](/path/to/3.jpg)
+![alt text](https://github.com/rodrigo-bot/dno037-clase14/blob/main/images/momkai.JPG)
 
 https://jakedowsmith.studio/
 
-![Image alt text](/path/to/4.jpg)
+![alt text](https://github.com/rodrigo-bot/dno037-clase14/blob/main/images/jakedowsmith.JPG)
 
 https://davidhellmann.com/
 
-![Image alt text](/path/to/5.jpg)
+![alt text](https://github.com/rodrigo-bot/dno037-clase14/blob/main/images/hellmann.JPG)
 
 http://www.nicolasdenhez.com/#/microsoft-courier/
+
+![alt text](https://github.com/rodrigo-bot/dno037-clase14/blob/main/images/denhez.JPG)
 
 **¿Qué existe que puede inspirar la propuesta? → referentes**
 
