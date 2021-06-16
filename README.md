@@ -48,14 +48,22 @@ http://www.nicolasdenhez.com/#/microsoft-courier/
 
 **¿Qué existe que puede inspirar la propuesta? → referentes**
 
-https://www.lascondesdesign.cl/muebles-decoracion/redecora/?gclid=CjwKCAjwwqaGBhBKEiwAMk-FtGjIS1rJccqjrLZlSa26zO9eHKutepogRwlhNxLtMKM1F6-AgWrS_BoCPFQQAvD_BwE
+https://www.dezeen.com/interiors/
 
-https://bohemik.cl/?gclid=CjwKCAjwwqaGBhBKEiwAMk-FtDw-FQVNvIDtQryZ7Hc3muThLV30Y1ViXLsxmAOTqNBSWhbQEyMCNBoCFnoQAvD_BwE
+![alt text](https://github.com/rodrigo-bot/dno037-clase14/blob/main/images/dezeen.JPG)
+
+https://bohemik.cl/
+
+![alt text](https://github.com/rodrigo-bot/dno037-clase14/blob/main/images/bohemik.JPG)
 
 https://www.apple.com/cl/
 
-https://www.xbox.com/es-CL
+![alt text](https://github.com/rodrigo-bot/dno037-clase14/blob/main/images/apple.JPG)
 
 https://cl.puma.com/
 
+![alt text](https://github.com/rodrigo-bot/dno037-clase14/blob/main/images/puma.JPG)
+
 https://johnrader.us/
+
+![alt text](https://github.com/rodrigo-bot/dno037-clase14/blob/main/images/rader.JPG)
