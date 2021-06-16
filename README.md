@@ -48,6 +48,8 @@ http://www.nicolasdenhez.com/#/microsoft-courier/
 
 **¿Qué existe que puede inspirar la propuesta? → referentes**
 
+De los referentes se destaca la limpieza de lo que se ofrece y de la interfaz, mezclando elegancia con modernidad. Tambien se piensa para la creación del sitio web el uso de colores planos, con predominancia del fondo blanco. 
+
 https://www.dezeen.com/interiors/
 
 ![alt text](https://github.com/rodrigo-bot/dno037-clase14/blob/main/images/dezeen.JPG)
