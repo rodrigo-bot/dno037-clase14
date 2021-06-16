@@ -24,13 +24,21 @@ Es una joven empresaria que recién comienza un emprendimiento de servicio de co
 
 **¿Qué existe que es similar a la propuesta? → antecedentes**
 
-- https://www.branex.com/
+https://www.branex.com/
 
 ![Image alt text](/path/to/1.jpg)
+![Image alt text](/path/to/2.jpg)
 
+https://www.momkai.com/
 
-- https://www.momkai.com/
-- https://jakedowsmith.studio/
-- https://davidhellmann.com/
+![Image alt text](/path/to/3.jpg)
+
+https://jakedowsmith.studio/
+
+![Image alt text](/path/to/4.jpg)
+
+https://davidhellmann.com/
+
+![Image alt text](/path/to/5.jpg)
 
 **¿Qué existe que puede inspirar la propuesta? → referentes**
