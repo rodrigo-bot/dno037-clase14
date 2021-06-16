@@ -4,7 +4,7 @@ El sitio web corresponderá a un autoencargo de portafolio de Diseño.
 
 **¿Para qué? → objetivo general**
 
-Es relevante tener un portafolio propio en orden de exhibir los trabajos realizados a quien desee verlos, y tener una buena vitrina ante el venidero mundo laboral.
+ Exhibir los trabajos propios realizados a quien desee verlos, y tener una buena vitrina ante el venidero mundo laboral.
 
 **¿Para quiénes? → usuarios extremos y usuarios promedio**
 
@@ -22,7 +22,7 @@ No sabe lo que es el diseño. Tiene 68 años, es empresario y asocia el diseño 
 Es una joven empresaria que recién comienza un emprendimiento de servicio de comida al paso. Para hacer efectivo su lanzamiento oficial le gustaría contar con la mayor planificación del servicio y experiencia que recibirá el cliente en cada momento relacionado con el consumo de su producto.
 
 
-¿Qué existe que es similar a la propuesta? → antecedentes
+**¿Qué existe que es similar a la propuesta? → antecedentes**
 
 - https://www.branex.com/
 - https://www.momkai.com/
