@@ -26,7 +26,7 @@ Es una joven empresaria que recién comienza un emprendimiento de servicio de co
 
 - https://www.branex.com/
 
-![Image alt text](/path/to/images/1.jpg)
+![Image alt text](/path/to/1.jpg)
 
 
 - https://www.momkai.com/
