@@ -25,7 +25,9 @@ Es una joven empresaria que recién comienza un emprendimiento de servicio de co
 **¿Qué existe que es similar a la propuesta? → antecedentes**
 
 - https://www.branex.com/
+- 
 [img]: https://www.branex.com/img.jpg
+
 - https://www.momkai.com/
 - https://jakedowsmith.studio/
 - https://davidhellmann.com/
