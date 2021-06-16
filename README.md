@@ -1,4 +1,5 @@
 # dno037-clase14
+# Portafolio de diseño 
 El sitio web corresponderá a un autoencargo de portafolio de Diseño. 
 ¿Para qué? → objetivo general
   Es relevante tener un portafolio propio en orden de exhibir los trabajos realizados a quien desee verlos, y tener una buena vitrina ante el venidero mundo laboral.
@@ -12,9 +13,9 @@ El sitio web corresponderá a un autoencargo de portafolio de Diseño.
 
 ¿Qué existe que es similar a la propuesta? → antecedentes
 
-https://www.branex.com/
-https://www.momkai.com/
-https://jakedowsmith.studio/
-https://davidhellmann.com/
+- https://www.branex.com/
+- https://www.momkai.com/
+- https://jakedowsmith.studio/
+- https://davidhellmann.com/
 
 ¿Qué existe que puede inspirar la propuesta? → referentes
