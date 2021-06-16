@@ -7,13 +7,19 @@ Es relevante tener un portafolio propio en orden de exhibir los trabajos realiza
 
 **¿Para quiénes? → usuarios extremos y usuarios promedio**
 
-Usuarios extremos: 
+Usuarios extremos (menos probables): 
 
 1.Valentina:
 Es coordinadora de un programa público de asistencia al cliente, y encuentra que existen fallas en cómo opera su servicio. Ha escuchado hablar del diseño de servicios pero         no conoce bien de qué se trata. 
 
 2.Javier: 
 No sabe lo que es el diseño. Tiene 68 años, es empresario y asocia el diseño a decoración de interiores, pero le han recomendado que contacte a un diseñador para                   revisar el área de innovación de la empresa.
+
+Usuario medio (más probable): 
+
+3.Mariana:
+Es una joven empresaria que recién comienza un emprendimiento de servicio de comida al paso. Para hacer efectivo su lanzamiento oficial le gustaría contar con la mayor planificación del servicio y experiencia que recibirá el cliente en cada momento relacionado con el consumo de su producto.
+
 
 ¿Qué existe que es similar a la propuesta? → antecedentes
 
