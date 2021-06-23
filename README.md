@@ -16,6 +16,24 @@ El sitio web corresponderá a un autoencargo de portafolio de Diseño.
 
 Es coordinadora de un programa público de asistencia al cliente, y encuentra que existen fallas en cómo opera su servicio. Ha escuchado hablar del diseño de servicios pero         no conoce bien de qué se trata. 
 
+Behaviour and demographic:
+
+-
+-
+-
+
+Pain points and needs: 
+
+-
+-
+-
+
+Potential solutions:
+
+-
+-
+-
+
 2.Javier: 
 
 ![alt text](https://github.com/rodrigo-bot/dno037-clase14/blob/main/images/a2.JPG)
