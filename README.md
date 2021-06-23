@@ -20,19 +20,15 @@ Behaviour and demographic:
 
 - Tiene 40 años, tiene 2 hijos pequeños
 - No es fan de lo ornamental, le gusta las cosas prácticas
-- 
 
 Pain points and needs: 
 
 - No le gusta perder el tiempo con "nuevas ideas" que no funcionan
-- No es fan de las
--
 
 Potential solutions:
 
 - Mostrar de forma concisa los obejtivos logrados con cada proyecto
 - Ofrecer de forma explicativa descripciones de la disciplina 
--
 
 2.Javier: 
 
@@ -43,7 +39,6 @@ No sabe lo que es el diseño. Es empresario y asocia el diseño a decoración de
 Behaviour and demographic:
 
 - 68 años, conservador en sus decisiones
--
 
 Pain points and needs: 
 
