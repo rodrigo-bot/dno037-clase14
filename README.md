@@ -18,27 +18,41 @@ Es coordinadora de un programa público de asistencia al cliente, y encuentra qu
 
 Behaviour and demographic:
 
--
--
--
+- Tiene 40 años, tiene 2 hijos pequeños
+- No es fan de lo ornamental, le gusta las cosas prácticas
+- 
 
 Pain points and needs: 
 
--
--
+- No le gusta perder el tiempo con "nuevas ideas" que no funcionan
+- No es fan de las
 -
 
 Potential solutions:
 
--
--
+- Mostrar de forma concisa los obejtivos logrados con cada proyecto
+- Ofrecer de forma explicativa descripciones de la disciplina 
 -
 
 2.Javier: 
 
 ![alt text](https://github.com/rodrigo-bot/dno037-clase14/blob/main/images/a2.JPG)
 
-No sabe lo que es el diseño. Tiene 68 años, es empresario y asocia el diseño a decoración de interiores, pero le han recomendado que contacte a un diseñador para                   revisar el área de innovación de la empresa.
+No sabe lo que es el diseño. Es empresario y asocia el diseño a decoración de interiores, pero le han recomendado que contacte a un diseñador para revisar el área de innovación de la empresa.
+
+Behaviour and demographic:
+
+- 68 años, conservador en sus decisiones
+-
+
+Pain points and needs: 
+
+- Le interesan resultados tangibles, que demuestren aporte al cliente.
+- Prefiere referencias a cosas
+
+Potential solutions:
+
+- Mostrar de forma concisa los obejtivos logrados con cada proyecto
 
 **Usuario medio (más probable):** 
 
@@ -47,6 +61,21 @@ No sabe lo que es el diseño. Tiene 68 años, es empresario y asocia el diseño 
 ![alt text](https://github.com/rodrigo-bot/dno037-clase14/blob/main/images/a3.JPG)
 
 Es una joven empresaria que recién comienza un emprendimiento de servicio de comida al paso. Para hacer efectivo su lanzamiento oficial le gustaría contar con la mayor planificación del servicio y experiencia que recibirá el cliente en cada momento relacionado con el consumo de su producto.
+
+Behaviour and demographic:
+
+- Tiene 28 años, soltera y sin hijos
+- Le gusta la innovación y conoce tendencias
+
+
+Pain points and needs: 
+
+- Tiene poco tiempo para revisar actividades paralelas a la administración de su emprendimiento
+
+Potential solutions:
+
+- Ser atractivo gráficamente en la propuesta, intentando ser moderno 
+
 
 
 **¿Qué existe que es similar a la propuesta? → antecedentes**
