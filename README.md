@@ -12,7 +12,7 @@ El sitio web corresponderá a un autoencargo de portafolio de Diseño.
 
 1.Valentina:
 
-![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/a1.JPG)
+![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/a1.jpg)
 
 Es coordinadora de un programa público de asistencia al cliente, y encuentra que existen fallas en cómo opera su servicio. Ha escuchado hablar del diseño de servicios pero         no conoce bien de qué se trata. 
 
