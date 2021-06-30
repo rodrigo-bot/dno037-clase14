@@ -32,7 +32,7 @@ Potential solutions:
 
 2.Javier: 
 
-![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/a2.JPG)
+![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/a2.jpg)
 
 No sabe lo que es el diseño. Es empresario y asocia el diseño a decoración de interiores, pero le han recomendado que contacte a un diseñador para revisar el área de innovación de la empresa.
 
@@ -53,7 +53,7 @@ Potential solutions:
 
 3.Mariana:
 
-![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/a3.JPG)
+![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/a3.jpg)
 
 Es una joven empresaria que recién comienza un emprendimiento de servicio de comida al paso. Para hacer efectivo su lanzamiento oficial le gustaría contar con la mayor planificación del servicio y experiencia que recibirá el cliente en cada momento relacionado con el consumo de su producto.
 
@@ -79,29 +79,29 @@ https://www.branex.com/
 
 De branex destaco la gran presencia de la marca que se mantiene en el recorrido por la página, además de cómo los valores de la compañia son parte importante de la oferta que presentan. Si se desea ver los trabajos, el menú desplegable de la derecha es bien completo y cumple una buena función mostrando la lista de oferta de servicios.
 
-![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/branex1.JPG)
+![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/branex1.jpg)
 
-![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/branex2.JPG)
+![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/branex2.jpg)
 
 https://www.momkai.com/
 
 De Momkai me gusta la asimetría en la muestra de sus proyectos. Esto junto a la simpleza de elementos me hace pensar ene la marca como algo sobrio y moderno.
 
-![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/momkai.JPG)
+![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/momkai.jpg)
 
 https://jakedowsmith.studio/
 
 Acá me gusta cómo gracias a la simpleza de la página la atención sse fija en los cuadros de los proyectos. Además, la animación dentro de cada cuadro resuelve bien el mostrar bastante más de lo que se podría en solo esa porción de pantalla. 
 
-![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/jakedowsmith.JPG)
+![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/jakedowsmith.jpg)
 
 https://davidhellmann.com/
 
-![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/hellmann.JPG)
+![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/hellmann.jpg)
 
 http://www.nicolasdenhez.com/#/microsoft-courier/
 
-![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/denhez.JPG)
+![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/denhez.jpg)
 
 **¿Qué existe que puede inspirar la propuesta? → referentes**
 
@@ -109,20 +109,20 @@ De los referentes se destaca la limpieza de lo que se ofrece y de la interfaz, m
 
 https://www.dezeen.com/interiors/
 
-![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/dezeen.JPG)
+![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/dezeen.jpg)
 
 https://bohemik.cl/
 
-![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/bohemik.JPG)
+![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/bohemik.jpg)
 
 https://www.apple.com/cl/
 
-![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/apple.JPG)
+![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/apple.jpg)
 
 https://cl.puma.com/
 
-![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/puma.JPG)
+![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/puma.jpg)
 
 https://johnrader.us/
 
-![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/rader.JPG)
+![alt text](https://github.com/rodrigo-bot/portafolioFinal/blob/main/images/rader.jpg)
